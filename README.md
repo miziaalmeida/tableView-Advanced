@@ -6,4 +6,6 @@ Exercício 28/09 - Table View Advanced - implementando canEditRowAt - editingSty
 
 ### Preview
 
-<img src="https://user-images.githubusercontent.com/42849855/95692922-b4093380-0bff-11eb-9fa0-172d70035404.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/42849855/95692922-b4093380-0bff-11eb-9fa0-172d70035404.png" width=30% height=30%>
+
+<img src= "https://user-images.githubusercontent.com/42849855/95692924-b8355100-0bff-11eb-9d37-0c71caeaa3e1.png" width=30% height=30%>
